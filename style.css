@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Marcellus+SC');
+@import url('https://fonts.googleapis.com/css?family=Saira+Semi+Condensed');
+
+*{
+	margin:0px;
+}
+body,html{
+	height: 100%;
+	background-color:#E4F1FE;
+}
+
+#contact{
+
+	margin-top:5%;
+	background-color:#52B3D9;
+	height: auto;
+	margin-bottom: 7%;
+
+}
+h3{
+	padding-top: 10px;
+	font-size: 20px;
+	color: #52B3D9;
+	margin-top: 0%;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+font-family: 'Saira Semi Condensed', sans-serif;
+	height: auto;
+	padding-bottom: 10px
+}
+#contact h2{
+
+	padding-top: 20px;
+	font-size: 40px;
+	color:  #E4F1FE;
+	margin-top:20px;
+	text-align: center;
+font-family: 'Saira Semi Condensed', sans-serif;
+
+}
+#contact h3{
+		padding-top: 20px;
+	font-size: 20px;
+	color:  #E4F1FE;
+	margin-top: 3%;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+font-family: 'Saira Semi Condensed', sans-serif;
+	height: auto;
+	padding-bottom: 10px
+}
+.fa-facebook {
+ height: 50px;
+ width: 50px;
+  color: white;
+ 
+}
+.fa-instagram {
+  
+  color: white;
+  
+ }
+ .title{
+ 	height: auto;
+ 	background-color: #52B3D9;
+ }
+ h1{
+	text-align: center;
+	font-size: 20px;
+	color:  #E4F1FE;
+	margin-top: 3%;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+font-family: 'Saira Semi Condensed', sans-serif;
+	height: auto;
+}
+
+.shortened{
+	text-align: center;
+	font-size: 20px;
+	color:  #E4F1FE;
+	
+	margin-top: 4%;
+font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.shortener{
+	margin-top: 4%;
+	height: 60%;
+ 	background-color: #52B3D9;
+ 	width: 100%;
+}
+
+input{
+	margin-left: 10%;
+	font-size: 30px;
+	
+	text-align: center;
+	color: #52B3D9;
+}
+.text{
+	padding-top: 13%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.btn{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.btn input{
+	margin-top: 4%;
+}
+
+
+
